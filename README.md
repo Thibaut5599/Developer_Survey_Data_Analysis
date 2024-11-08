@@ -43,6 +43,4 @@ This study indicates that classic web technologies are still vital, yet there's 
 A compléter
 
 ## Author
-Project by Thibaut LANNERS.
-
-
+Project designed by Ramesh Sannareddy and Rav Ahuja (IBM), carried out by Thibaut LANNERS.
