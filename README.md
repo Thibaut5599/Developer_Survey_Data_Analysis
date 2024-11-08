@@ -19,10 +19,10 @@ This project focuses on analyzing a dataset from a developer survey to identify 
 - **Datasets_Database folder**
   - **Datasets :** m2_survey_data.csv used to create the database (SQLite file, cf. below) ; m5_survey_data_demographics.csv & m5_survey_data_technologies_normalised.csv are used for dashboard and report.
   - **Database :** SQLite file (m4_survey_data.sqlite). It's a SQLite database with 24 tables; 23 tables correspond to survey questions and contain response counts, while the "master" table includes the remaining data columns.
-- Jupyter Notebook : Developer_Survey_Data_Analysis.ipynb file shows data exploration using m4_survey_data.sqlite database.
-- Screenshots : Screenshots_Plotly_Charts folder contains some PNG files corresponding to the plotly graphics screenshots inserted in the Jupyter Notebook.
-- IMB Cognos Analytics Dashboard : Dashboard_CognosAnalytics.pdf file is a dashboard (in pdf format) allowing anyone to answer the questions asked in the "Objectives" section using the different visualizations.
-- Report : Report_PowerPoint.pdf is a PowerPoint report (in pdf format) which presents, among other things, the various results and their implications as well as a conclusion.
+- **Jupyter Notebook :** Developer_Survey_Data_Analysis.ipynb file shows data exploration using m4_survey_data.sqlite database.
+- **Screenshots :** Screenshots_Plotly_Charts folder contains some PNG files corresponding to the plotly graphics screenshots inserted in the Jupyter Notebook.
+- **IMB Cognos Analytics Dashboard :** Dashboard_CognosAnalytics.pdf file is a dashboard (in pdf format) allowing anyone to answer the questions asked in the "Objectives" section using the different visualizations.
+- **Report :** Report_PowerPoint.pdf is a PowerPoint report (in pdf format) which presents, among other things, the various results and their implications as well as a conclusion.
 
 ## Results and Conclusion
 **Programming Language Trend**
