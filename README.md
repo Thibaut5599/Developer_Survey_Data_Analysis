@@ -4,23 +4,42 @@ This project was followed as part of the Coursera training [IBM Data Analyst Pro
 This project was designed by Mr. Ramesh Sannareddy (Data Enginnering Subject Matter Expert at IBM) and Mr. Rav Ahuja (CCO & Global Program Director at IBM).
 
 ## Project Overview
-This project explores global cinema trends by analyzing movies released between 1970 and 2024. The analysis focuses on three main areas: trends in movie ratings over time, genre popularity and evolution across decades, and global cinema diversity across genres and filmmakers.
+This project focuses on analyzing a dataset from a developer survey to identify key trends in programming languages, database skills, and respondent demographics. The dataset includes responses from participants to various survey questions.
 
 ## Objectives
-- Trends in movie ratings over time
-- Genre popularity and evolution by decade
-- Global cinema diversity through genres and filmmakers
+- What are the top programming languages in demand ?
+- What are the top database skills in demand ?
+- Who are the respondents to the survey?
+  - Gender
+  - Country
+  - Age
+  - Education level
 
 ## Project Contents 
 - **Dataset :** CSV file (m2_survey_data.csv).
 - **Database :** SQLite file (m4_survey_data.sqlite). It's a SQLite database with 24 tables; 23 tables correspond to survey questions and contain response counts, while the "master" table includes the remaining data columns.
 
 ## Results and Conclusion
-The visualizations and analysis indicate no strong correlations or clear trends within the dataset. A straightforward descriptive analysis, complemented by interactive visualizations in Tableau, provides a broad view for exploring movies released between 1970 and 2024.
+**Programming Language Trend**
+- **JavaScript and HTML/CSS** are the most popular and in-demand languages, indicating their essential role in maintaining job market relevance.
+- **SQL** is widely used but shows less interest for further learning, possibly due to developer familiarity or the rise of NoSQL alternatives.
+- **Go** shows high learning demand, likely for its performance and use in backend development.
+
+**Databases Trends**
+- **PostgreSQL** is both widely used and in demand, valued for its flexibility and standards compliance.
+- **MongoDB** ranks high in desired skills, reflecting a growing interest in NoSQL.
+- **MySQL** retains strong industry usage and interest, affirming its robustness
+
+**Overall Findings and Implications**
+- **SQL** is fundamental, but **NoSQL** is increasingly popular, necessitating skills in both
+- **JavaScript** and **HTML/CSS** remain key, with a need for ongoing learning investments.
+- Respondents are predominantly young, educated men, highlighting diversity improvement opportunities in tech.
+
+**Conclusion**
+This study indicates that classic web technologies are still vital, yet there's a growing interest in modern languages like Go. Traditional relational databases remain fundamental, while newer, flexible options like MongoDB are gaining traction. Additionally, the data reflect a tech industry dominated by young, highly educated men, pointing to opportunities for gender diversity and ongoing skill development.
 
 ## Usage 
-- Data Analysis : Open Movies_1910_2024.ipynb to view the data cleaning, preprocessing steps and descriptive analysis using Python.
-- Data Exploration : Open the dashboard (Analysis_MovieDataset.twbx) in Tableau or click [here](https://public.tableau.com/shared/6CJJQQP8N?:display_count=n&:origin=viz_share_link) to explore trends and patterns.
+A compléter
 
 ## Author
 Project by Thibaut LANNERS.
