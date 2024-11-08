@@ -44,10 +44,14 @@ This project focuses on analyzing a dataset from a developer survey to identify 
 
 This study indicates that classic web technologies are still vital, yet there's a growing interest in modern languages like Go. Traditional relational databases remain fundamental, while newer, flexible options like MongoDB are gaining traction. Additionally, the data reflect a tech industry dominated by young, highly educated men, pointing to opportunities for gender diversity and ongoing skill development.
 
-## Usage 
-- **Data Analysis  :** Open Developer_Survey_Data_Analysis.ipynb to view the Exploratory Data Analaysis using SQL queries in Python.
-- **Data Visualization :** Open the dashboard (Dashboard_CognosAnalytics.pdf) to see the visualizations to answer the questions asked in the “Objectives” section.
-- **Report :** Open the report (Report_PowerPoint.pdf) to see the powerpoint report of this project.
+## Usage
+1. **Clone the repository** (enter the following command in a terminal) :
+
+   git clone https://github.com/Thibaut5599/Developer_Survey_Data_Analysis.git
+   
+2. **Open the Jupyter Notebook :** Once you have cloned the repository, open Developer_Survey_Data_Analysis.ipynb file using Jupyter Notebook or JupyterLab (enter the following command in a terminal) :
+   
+   jupyter notebook Developer_Survey_Data_Analysis.ipynb
 
 ## Authors
 Project designed by Ramesh Sannareddy and Rav Ahuja (IBM), carried out by Thibaut LANNERS.
