@@ -36,6 +36,7 @@ This project focuses on analyzing a dataset from a developer survey to identify 
 - Respondents are predominantly young, educated men, highlighting diversity improvement opportunities in tech.
 
 **Conclusion**
+
 This study indicates that classic web technologies are still vital, yet there's a growing interest in modern languages like Go. Traditional relational databases remain fundamental, while newer, flexible options like MongoDB are gaining traction. Additionally, the data reflect a tech industry dominated by young, highly educated men, pointing to opportunities for gender diversity and ongoing skill development.
 
 ## Usage 
